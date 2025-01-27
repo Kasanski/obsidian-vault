@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"0a0c6a836ba11879","type":"file","file":"99-assests/network/switch.svg","x":0,"y":-160,"width":151,"height":114},
+		{"id":"2d5fec8c81fb697c","type":"file","file":"99-assests/network/switch.svg","x":-560,"y":-160,"width":151,"height":114},
+		{"id":"d89993e4e16c98da","type":"file","file":"99-assests/network/switch.svg","x":-280,"y":180,"width":151,"height":114},
+		{"id":"252cb5c084d1cfd6","type":"file","file":"99-assests/network/pc.svg","x":-258,"y":460,"width":107,"height":114},
+		{"id":"e32800a65216b202","type":"text","text":"### Switch 02\n---\npriority: 32769\nMAC: 00:1B:54:9F:2B:47","x":151,"y":-340,"width":250,"height":144},
+		{"id":"e8b529fc7a3c5397","type":"file","file":"99-assests/network/pc.svg","x":401,"y":-160,"width":107,"height":114},
+		{"id":"83d9077c56f9b59a","type":"file","file":"99-assests/network/pc.svg","x":-917,"y":-160,"width":107,"height":114},
+		{"id":"43a6ee2afb160b0d","type":"text","text":"### Switch 01\n---\npriority: 32769\nMAC: 00:1B:54:3A:7D:12","x":-810,"y":-340,"width":250,"height":144},
+		{"id":"80eaf12b67a414f1","type":"text","text":"**LAN:**192.168.1.0/24","x":-329,"y":-20,"width":250,"height":60,"color":"6"},
+		{"id":"cc6ef5cd88d4c83f","type":"text","text":"192.168.1.1","x":-1220,"y":-133,"width":250,"height":60,"color":"6"},
+		{"id":"fef0cb4bba3f23e6","type":"text","text":"192.168.1.2","x":560,"y":-133,"width":250,"height":60,"color":"6"},
+		{"id":"3526eb0a0185ffd2","type":"text","text":"192.168.1.3","x":-329,"y":600,"width":250,"height":60,"color":"6"},
+		{"id":"2d51793f8e4da1b3","type":"text","text":"### Switch 03\n---\npriority: 32769\nMAC: 00:1B:54:5D:11:93","x":-329,"y":700,"width":250,"height":144},
+		{"id":"34c671003669a222","type":"text","text":"D","x":-409,"y":-160,"width":69,"height":50,"color":"5"},
+		{"id":"1cedfd0c412c30e0","type":"text","text":"D","x":-560,"y":-45,"width":69,"height":50,"color":"5"},
+		{"id":"2e5d3240b8eb0077","type":"text","text":"R","x":-69,"y":-158,"width":69,"height":50,"color":"4"},
+		{"id":"e75978cf1bd31995","type":"text","text":"R","x":-349,"y":244,"width":69,"height":50,"color":"4"},
+		{"id":"dfba61e2ef1f463d","type":"text","text":"D","x":-629,"y":-158,"width":69,"height":50,"color":"5"},
+		{"id":"d00b64ab929f943e","type":"text","text":"D","x":151,"y":-153,"width":69,"height":50,"color":"5"},
+		{"id":"59a975daa9b4dfbd","type":"text","text":"D","x":-204,"y":294,"width":69,"height":50,"color":"5"},
+		{"id":"e1e4e924a4e0baae","type":"text","text":"Layer 3 = IP-Adresses\nLayer 2 = MAC-Adresses\nLayer 1 = Physical Bits","x":-917,"y":191,"width":250,"height":156},
+		{"id":"dac987f779d93a6c","type":"text","text":"N","x":82,"y":-46,"width":69,"height":50,"color":"2"}
+	],
+	"edges":[
+		{"id":"359fbb2e57f00dfa","fromNode":"83d9077c56f9b59a","fromSide":"right","toNode":"2d5fec8c81fb697c","toSide":"left"},
+		{"id":"4188b0ccf846f667","fromNode":"252cb5c084d1cfd6","fromSide":"top","toNode":"d89993e4e16c98da","toSide":"bottom"},
+		{"id":"b17d5d35e91c9e44","fromNode":"d89993e4e16c98da","fromSide":"bottom","toNode":"252cb5c084d1cfd6","toSide":"top"},
+		{"id":"1c2d12a1ff198a4f","fromNode":"2d5fec8c81fb697c","fromSide":"left","toNode":"83d9077c56f9b59a","toSide":"right"},
+		{"id":"e1df1ae7fc43db47","fromNode":"2d5fec8c81fb697c","fromSide":"bottom","toNode":"d89993e4e16c98da","toSide":"left"},
+		{"id":"7c5a1dfe04f8298d","fromNode":"d89993e4e16c98da","fromSide":"left","toNode":"2d5fec8c81fb697c","toSide":"bottom"},
+		{"id":"78c7ddb0368099eb","fromNode":"d89993e4e16c98da","fromSide":"right","toNode":"0a0c6a836ba11879","toSide":"bottom"},
+		{"id":"52f47b19a5571274","fromNode":"0a0c6a836ba11879","fromSide":"bottom","toNode":"d89993e4e16c98da","toSide":"right"},
+		{"id":"3f87dfe5d67c73b9","fromNode":"2d5fec8c81fb697c","fromSide":"right","toNode":"0a0c6a836ba11879","toSide":"left"},
+		{"id":"276e916093596510","fromNode":"0a0c6a836ba11879","fromSide":"left","toNode":"2d5fec8c81fb697c","toSide":"right"},
+		{"id":"d05bf061af96bf85","fromNode":"0a0c6a836ba11879","fromSide":"right","toNode":"e8b529fc7a3c5397","toSide":"left"},
+		{"id":"61f49301ffcde209","fromNode":"e8b529fc7a3c5397","fromSide":"left","toNode":"0a0c6a836ba11879","toSide":"right"}
+	]
+}

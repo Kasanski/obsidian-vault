@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBookCheck",
+      "LiCheckCheck",
+      "LiArchive",
+      "🖼",
+      "LiBadgeEuro"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01-projects": {
+    "iconName": "LiActivity",
+    "iconColor": "#00ff00"
+  },
+  "02-work": {
+    "iconName": "LiBadgeEuro",
+    "iconColor": "#ffbb00"
+  },
+  "99-assests": "🖼",
+  "03-daily": {
+    "iconName": "LiTimer",
+    "iconColor": "#ff0000"
+  },
+  "04-knowledge": {
+    "iconName": "LiArchive",
+    "iconColor": "#ff6600"
+  },
+  "98-queue": "LiCheckCheck",
+  "tasks.md": {
+    "iconName": "LiBookCheck",
+    "iconColor": "#00ffff"
+  }
+}

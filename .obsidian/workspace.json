@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "06f26aa40eb30b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "158f93e402d04edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15b480f4a3dcbe4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "97ea74dc4a3da273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "248483fd736c2c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab2a37125207b23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa2763b5f4e23d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf980cdf05979cf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d7d69ac2aa3ca8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fcfaef022c3c56a",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2bbb0b65536c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95913321999352e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tasks"
+            }
+          },
+          {
+            "id": "d499a5b165d2f2aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "29782d46b1e499f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "702367bf39c2c7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f9d280e88e7241d1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "83b9d77ef877e396",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "83b9d77ef877e396",
+  "lastOpenFiles": [
+    "02-knowledge/CSS.md",
+    "02-knowledge/Cisco Lab.md",
+    "02-knowledge/CCNA v1.1 Exam Topics.md",
+    "02-knowledge/canvas/EtherChannel.canvas",
+    "02-work/CCNA v1.1 Exam Topics.md",
+    "99-assests/network/wireless-access-point.svg",
+    "99-assests/network/switch.svg",
+    "99-assests/network/server-2.svg",
+    "99-assests/network/router.svg",
+    "99-assests/network/relational-database.svg",
+    "99-assests/network/external-media-drive.svg",
+    "99-assests/network/firewall.svg",
+    "99-assests/network/pc.svg",
+    "99-assests/network/cloud.svg",
+    "99-assests/network/building.svg",
+    "99-assests/network",
+    "02-knowledge/EtherChannel.md",
+    "04-lists/Wishlist.md",
+    "04-lists/Grocerys.md",
+    "04-lists",
+    "02-knowledge/protocols/Spanning Tree Protocol.md",
+    "02-knowledge/protocols/Rapid Spanning Tree Protocol.md",
+    "02-knowledge/canvas/RSPT.canvas",
+    "02-knowledge/protocols",
+    "02-knowledge/canvas",
+    "02-knowledge/HTML.md",
+    "02-knowledge",
+    "02-work/Cisco Lab.md",
+    "CheckPoint Quantum Management.md",
+    "tasks.md",
+    "98-queue/regular.md",
+    "98-queue/repeating.md",
+    "03-daily/2025-01-22.md",
+    "04-knowledge/CSS.md",
+    "04-knowledge/HTML.md",
+    "03-daily/daily.md",
+    "01-projects/HomeServer.md",
+    "00-checklist",
+    "98-queue",
+    "03-daily/2025-01-21.md",
+    "03-daily/2025-01-20.md",
+    "Untitled.canvas",
+    "Ricing.md",
+    "Untitled Kanban.md",
+    "04-knowledge",
+    "03-daily/2025-01-17.md",
+    "03-daily",
+    "99-assests"
+  ]
+}

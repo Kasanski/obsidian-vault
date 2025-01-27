@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "06f26aa40eb30b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "158f93e402d04edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15b480f4a3dcbe4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98-queue/regular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "regular"
+            }
+          },
+          {
+            "id": "97ea74dc4a3da273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          },
+          {
+            "id": "956b29caaee7261e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-work/CCNA v1.1 Exam Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CCNA v1.1 Exam Topics"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "248483fd736c2c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ab2a37125207b23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa2763b5f4e23d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf980cdf05979cf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d7d69ac2aa3ca8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fcfaef022c3c56a",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2bbb0b65536c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f95913321999352e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03-daily/daily to-do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for daily to-do"
+            }
+          },
+          {
+            "id": "d499a5b165d2f2aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "29782d46b1e499f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "702367bf39c2c7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8aa2763b5f4e23d7",
+  "lastOpenFiles": [
+    "02-work/Cisco Lab.md",
+    "CheckPoint Quantum Management.md",
+    "tasks.md",
+    "98-queue/regular.md",
+    "98-queue/repeating.md",
+    "03-daily/2025-01-22.md",
+    "04-knowledge/CSS.md",
+    "99-assests/html-logo.svg",
+    "04-knowledge/HTML.md",
+    "03-daily/daily.md",
+    "01-projects/HomeServer.md",
+    "00-checklist",
+    "98-queue",
+    "03-daily/2025-01-21.md",
+    "03-daily/2025-01-20.md",
+    "02-work/CCNA v1.1 Exam Topics.md",
+    "Untitled.canvas",
+    "Ricing.md",
+    "Untitled Kanban.md",
+    "04-knowledge",
+    "03-daily/2025-01-17.md",
+    "Hallo.md",
+    "03-daily",
+    "99-assests",
+    "02-work",
+    "tempNote.md",
+    "Wishlist.md",
+    "projects/Untitled",
+    "01-projects"
+  ]
+}
