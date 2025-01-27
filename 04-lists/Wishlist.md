@@ -1,0 +1,2 @@
+- RTX 5080
+- Phillips OneBlade

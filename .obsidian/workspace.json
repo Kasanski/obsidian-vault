@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks.md",
+                "file": "04-lists/Wishlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tasks"
+              "title": "Wishlist"
             }
           }
         ],
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,11 +188,13 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83b9d77ef877e396",
+  "active": "cf980cdf05979cf6",
   "lastOpenFiles": [
+    "tasks.md",
     "02-knowledge/CSS.md",
     "02-knowledge/Cisco Lab.md",
     "02-knowledge/CCNA v1.1 Exam Topics.md",
@@ -221,7 +224,6 @@
     "02-knowledge",
     "02-work/Cisco Lab.md",
     "CheckPoint Quantum Management.md",
-    "tasks.md",
     "98-queue/regular.md",
     "98-queue/repeating.md",
     "03-daily/2025-01-22.md",
